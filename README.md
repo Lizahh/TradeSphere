@@ -141,7 +141,7 @@ Currently, the frontend is kept minimal (Django templates + Bootstrap) for clari
 
 * BI tools (via CSV/JSON export from ML scripts)
 
-Let us know if you’d like a more enhanced frontend version — we’re open to PRs!
+Let us know if you’d like a more enhanced frontend version, we’re open to PRs!
 
 # Sample Screenshot
 
@@ -149,5 +149,7 @@ Let us know if you’d like a more enhanced frontend version — we’re open to
 
 # 👩‍💻 Author & Maintainer
 Ms. Aliza Mustafa
+
 ML Engineer | Data Enthusiast | AI Explorer
+
 📫 (https://www.linkedin.com/in/aliza-mustafa-ml-engineer/)
