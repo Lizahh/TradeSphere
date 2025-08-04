@@ -1,4 +1,4 @@
-# 🛍️ TradeSphere: AI-Powered E-commerce Optimization Platform
+# 🛍️ TradeSphere: AI-based E-commerce Optimization Platform
 
 **TradeSphere** is a robust, modular e-commerce intelligence platform built with Django and Python, seamlessly integrating AI-driven components such as personalized recommendation systems, dynamic pricing optimization, and customer segmentation strategies. This project is tailored to mimic real-world e-commerce ecosystems and serves as a launchpad for intelligent decision-making in retail platforms.
 
@@ -102,9 +102,9 @@ For testing purposes, sample data is bundled in the `analytics/data/` folder or 
 
 If you wish to test on **real or external datasets**, consider:
 
-- 📄 **Product Data**: [Kaggle - E-Commerce Product Catalogs](https://www.kaggle.com/datasets/PromptCloudHQ/product-data)
-- 👥 **User Purchase Logs**: [Retail Dataset - UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
-- 🛒 **Transactions**: [Instacart 2017 Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
+-  **Product Data**: [Kaggle - E-Commerce Product Catalogs](https://www.kaggle.com/datasets/PromptCloudHQ/product-data)
+-  **User Purchase Logs**: [Retail Dataset - UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+-  **Transactions**: [Instacart 2017 Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 _You can replace the dummy data with these sources using CSV import logic inside `/analytics/` scripts._
 
