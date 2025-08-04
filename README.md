@@ -102,9 +102,7 @@ For testing purposes, sample data is bundled in the `analytics/data/` folder or 
 
 If you wish to test on **real or external datasets**, consider:
 
--  **Product Data**: [Kaggle - E-Commerce Product Catalogs](https://www.kaggle.com/datasets/PromptCloudHQ/product-data)
 -  **User Purchase Logs**: [Retail Dataset - UCI Machine Learning](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
--  **Transactions**: [Instacart 2017 Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
 
 _You can replace the dummy data with these sources using CSV import logic inside `/analytics/` scripts._
 
